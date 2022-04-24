@@ -1,0 +1,22 @@
+{
+  "name": "codingbot",
+  "version": "1.0.0",
+  "description": "The official bot for our Discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhineyMonkey10/Main-Bot--Discord-.git"
+  },
+  "author": "WhMonkey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhineyMonkey10/Main-Bot--Discord-/issues"
+  },
+  "homepage": "https://github.com/WhineyMonkey10/Main-Bot--Discord-#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
